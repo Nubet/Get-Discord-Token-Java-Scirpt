@@ -1,0 +1,1 @@
+console.log(document.body.appendChild(document.createElement(`iframe`)).contentWindow.localStorage.token);
